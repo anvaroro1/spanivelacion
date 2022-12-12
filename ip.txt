@@ -1,0 +1,11 @@
+150.136.176.5
+
+ssh -i Private146.key opc@150.136.176.5
+
+
+usuario: anvaroro1
+repositorio: https://github.com/anvaroro1/spanivelacion.git
+
+token github: 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
+
+http://150.136.176.5:8080/manager/html
